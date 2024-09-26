@@ -307,3 +307,5 @@ https://betterprogramming.pub/static-analysis-of-container-images-with-trivy-8d2
 https://faun.pub/how-to-scan-docker-images-e08a7b909ea0
 
 *본 실습은 위 자료를 참조하여 제작하였습니다.*
+
+수정
